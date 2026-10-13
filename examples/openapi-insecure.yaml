@@ -1,0 +1,15 @@
+openapi: 3.0.3
+info:
+  title: API-Sentry Demo
+  version: 1.0.0
+
+servers:
+  - url: http://api.example.test/v1
+
+paths:
+  /profile:
+    get:
+      summary: Example endpoint
+      responses:
+        "200":
+          description: Example response
