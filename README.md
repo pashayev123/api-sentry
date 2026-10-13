@@ -41,7 +41,7 @@ JSON input can be processed using Python's standard library.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/api-sentry.git
+git clone https://github.com/pashayev123/api-sentry.git
 cd api-sentry
 ```
 
@@ -67,7 +67,6 @@ Install dependencies:
 python -m pip install -r requirements.txt
 ```
 
-Replace `YOUR-USERNAME` with the actual GitHub username or organization that hosts the repository.
 
 ## Usage
 
